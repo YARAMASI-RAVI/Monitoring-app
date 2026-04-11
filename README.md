@@ -34,12 +34,14 @@ Response:
 {
   "status": "OK"
 }
-🔹 System Metrics
+
+
+
+### 🔹 System Metrics
 
 Your Public Ip Address :5000/metrics
 
 Response:
-
 {
   "cpu_usage": 12.5,
   "memory_usage": 45.2,
