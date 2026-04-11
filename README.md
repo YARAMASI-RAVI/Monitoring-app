@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Server Health Monitoring API
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
@@ -103,3 +104,6 @@ If you like this project:
 ⭐ Star this repo
 🍴 Fork it
 🔧 Contribute
+=======
+
+>>>>>>> b1e8fd2b36a60e0e7848f82b65afc324b2469a38
